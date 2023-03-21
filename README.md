@@ -5,7 +5,6 @@ Foi desenvolvido em Asp .NET MVC junto com Entity Framework e banco de dados SQL
 Para executar o projeto basta executar o seguinte comando no seu terminal:   
 ```
 dotnet watch run   
-
 ```   
 Ele possui:   
 
