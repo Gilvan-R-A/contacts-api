@@ -1,7 +1,9 @@
-# AgendaMVC   
+<h1 align="center">
+   Schedule_Net 
+</h1>
 
-Website criado para criar, visualizar, atualizar e/ou excluir contatos de uma agenda.   
-Foi desenvolvido em Asp .NET MVC junto com Entity Framework e banco de dados SQL Server.   
+Sistema desenvolvido em arquitetura MVC para criar, visualizar, atualizar e/ou excluir contatos de uma agenda.   
+Tecnologias utilizadas: Asp .NET MVC junto com Entity Framework e banco de dados SQL Server.   
 Para executar o projeto, basta executar o seguinte comando no seu terminal:   
 ```
 dotnet watch run   
